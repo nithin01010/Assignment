@@ -49,7 +49,11 @@ solsphere/
 
 2. **Start the FastAPI server:**
    ```sh
-   uvicorn app:app --reload --host 0.0.0.0 --port 8000
+   python app.py
+   ```
+   In sperate power shell / terminal
+   ```sh
+   python Utility.py
    ```
 
 3. **API Documentation:**
