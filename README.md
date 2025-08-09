@@ -51,13 +51,6 @@ solsphere/
    ```sh
    python app.py
    ```
-   In sperate power shell / terminal
-   ```sh
-   python Utility.py
-   ```
-
-3. **API Documentation:**
-   - Visit [http://localhost:8000/docs](http://localhost:8000/docs) for interactive API docs.
 
 ## API Endpoints
 
@@ -79,6 +72,10 @@ solsphere/
 ## Running the Utility
 
 - Edit and run `Utility.py` on client machines to collect and send system data to the backend.
+
+   ```sh
+   python Utility.py
+   ```
 
 ## Notes
 
