@@ -84,5 +84,6 @@ solsphere/
 
 - If you change your models, delete the old database file to avoid schema mismatch errors.
 - For production, consider using a more robust database and HTTPS.
+- Check System_data file for records, It records every 18 sec
 
 ---
